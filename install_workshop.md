@@ -49,11 +49,7 @@ command line and also 3rd-party software.”
 There are a few good options for installing Git on a Mac. Choose the one
 that matches the way you use your computer.
 
-#### 2.2.1 Install Git from [Git website](https://git-scm.com/downloads)
-
-#### 2.2.2 Install Git from Terminal
-
-Choose this option if you’re comfortable working from the command line.
+#### 2.2.1 Install Git from Terminal
 
 Open Terminal from the Utilities section of your Applications.
 
@@ -65,7 +61,7 @@ git config
 # Accept the offer to install Xcode command line tools. This will take approximately 10 minutes, depending on your Internet connection.
 ```
 
-#### 2.2.3 Install Git using [Homebrew](https://brew.sh/)
+#### 2.2.2 Install Git using [Homebrew](https://brew.sh/)
 
 If you’ve already worked with lots of scientific computing packages, you
 might be used to installing using homebrew in the Terminal. You could
@@ -76,6 +72,8 @@ Open Terminal from the Utilities section of your Applications.
 ``` default
 brew install git
 ```
+
+Then restart your terminal.
 
 ## 3. Install [GitHub Desktop](https://github.com/apps/desktop)
 
