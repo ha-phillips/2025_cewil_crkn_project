@@ -82,8 +82,8 @@ Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-git
 
 ## 4. Set up communication between GitHub desktop and GitHub
 
-[GitHub
-Docs](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github-in-github-desktop?platform=mac)
+GitHub Docs: [Authenticating to GitHub in GitHub
+Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github-in-github-desktop?platform=mac)
 
 ## 5. Create a tutorial repository
 
