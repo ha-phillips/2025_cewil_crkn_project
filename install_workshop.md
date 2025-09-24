@@ -87,6 +87,9 @@ Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-git
 
 ## 5. Create a tutorial repository
 
+GitHub Docs: [Create tutorial
+repository](https://docs.github.com/en/desktop/overview/creating-your-first-repository-using-github-desktop#part-2-creating-a-new-repository)
+
 ## 6. Connect to this repository
 
 # Additional resources
