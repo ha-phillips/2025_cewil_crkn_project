@@ -15,9 +15,9 @@
 
 - Install Git
 
-- Install GitHub desktop
+- Install GitHub Desktop
 
-- Set up communication between GitHub desktop and GitHub
+- Set up communication between GitHub Desktop and GitHub
 
 - Create a tutorial repository
 
@@ -31,7 +31,10 @@ prevent coding challenges. Do not include your current university or
 employer, since those will change over your career.
 
 example: My username is estregger, but other good options would be
-emstregger or elizabeth_stregger.
+emstregger or elizabeth-stregger.
+
+GitHub Docs: [Getting started with your GitHub
+account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 
 ## 2. Install Git
 
@@ -75,6 +78,9 @@ brew install git
 ```
 
 ## 3. Install [GitHub Desktop](https://github.com/apps/desktop)
+
+GitHub Docs: [Install GitHub
+Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop?platform=mac)
 
 ## 4. Set up communication between GitHub desktop and GitHub
 
