@@ -90,6 +90,26 @@ Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-git
 GitHub Docs: [Create tutorial
 repository](https://docs.github.com/en/desktop/overview/creating-your-first-repository-using-github-desktop#part-2-creating-a-new-repository)
 
-## 6. Connect to this repository
+## 6. Connect to a repository owned by someone else
+
+In the tutorial repository, you were both the owner of the repository
+and the creator of the branch.
+
+If you do not have write access to a repository, you can contribute by
+creating a fork and making a pull request.
+
+For CHEM/BIOC students, I’m going to ask you to clone the
+[2025_cewil_crkn_project](https://github.com/estregger/2025_cewil_crkn_project)
+repository, make a change to the git_glossary.md file, open a pull
+request, assign it to estregger for review, and create an issue.
+
+For DATA students, I’m going to ask you to clone the
+[Course_Documents_2025](https://github.com/MtADATA3101/Course_Documents_2025)
+repository, make a change to the cewil_glossary.md file, open a pull
+request, assign it to estregger for review, and create an issue.
+
+To show you how to do this, I’ll use a test repository and the
+instructions in [GitHub
+Docs](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop)
 
 # Additional resources
