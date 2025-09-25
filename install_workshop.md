@@ -36,6 +36,9 @@ emstregger or elizabeth-stregger.
 GitHub Docs: [Getting started with your GitHub
 account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
 
+[Video
+link](https://mountallison-my.sharepoint.com/:v:/g/personal/estregger_mta_ca/EQht1LJn3oxOiBmCH3dmnJgBGSEJVHNfht7dnA4YimGujQ?e=nwLMCn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## 2. Install Git
 
 ### 2.1 Windows: Install [Git for Windows](https://gitforwindows.org/)
@@ -75,10 +78,16 @@ brew install git
 
 Then restart your terminal.
 
+[Video
+link](https://mountallison-my.sharepoint.com/:v:/g/personal/estregger_mta_ca/EaYO_GDF0pZIiD3M8ld6zVcBgKz-J5zXZzcrhUTqKNZkQA?e=carNOj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## 3. Install [GitHub Desktop](https://github.com/apps/desktop)
 
 GitHub Docs: [Install GitHub
 Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop?platform=mac)
+
+[Video
+link](https://mountallison-my.sharepoint.com/:v:/g/personal/estregger_mta_ca/EeqiFk94QGhEicdBLDQ4MJIBupeOm7f3c5nPaE-PAd0s5g?e=fTNLkR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## 4. Set up communication between GitHub desktop and GitHub
 
@@ -89,6 +98,12 @@ Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-git
 
 GitHub Docs: [Create tutorial
 repository](https://docs.github.com/en/desktop/overview/creating-your-first-repository-using-github-desktop#part-2-creating-a-new-repository)
+
+[Video Link: Part
+1](https://mountallison-my.sharepoint.com/:v:/r/personal/estregger_mta_ca/Documents/CEWIL_CRKN_Git_setup_5a.webm?csf=1&web=1&e=PZWGAP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Video link: Part
+2](https://mountallison-my.sharepoint.com/:v:/g/personal/estregger_mta_ca/EaCPfzwrGm5CpK4guWUrsfMBHjm3k4Ul3lgclxuI-5VNog?e=QWIOak&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 ## 6. Connect to a repository owned by someone else
 
@@ -101,15 +116,20 @@ creating a fork and making a pull request.
 For CHEM/BIOC students, I’m going to ask you to clone the
 [2025_cewil_crkn_project](https://github.com/estregger/2025_cewil_crkn_project)
 repository, make a change to the git_glossary.md file, and open a pull
-request.
+request. [Video link:
+CHEM/BIOC](https://mountallison-my.sharepoint.com/:v:/g/personal/estregger_mta_ca/EVzlgjQ6BDJKuGWMYI8-sIABIqmeZed_BqDgGxK2NhmvLw?e=4CDtE9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 For DATA students, I’m going to ask you to clone the
 [Course_Documents_2025](https://github.com/MtADATA3101/Course_Documents_2025)
 repository, make a change to the cewil_glossary.md file,and open a pull
-request.
+request. [Video link:
+DATA](https://mountallison-my.sharepoint.com/:v:/g/personal/estregger_mta_ca/EaU33x_KCcJAu5ZfCuRX1QcBz2xr0l0PVi9iWt37Ox3qag?e=4laddg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 To show you how to do this, I’ll use a test repository and the
 instructions in [GitHub
 Docs](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop)
 
 # Additional resources
+
+Consider selecting a Udemy class on Git and GitHub to learn in more
+detail.
