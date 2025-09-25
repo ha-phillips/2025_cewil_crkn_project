@@ -101,6 +101,8 @@ Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-git
 GitHub Docs: [Create tutorial
 repository](https://docs.github.com/en/desktop/overview/creating-your-first-repository-using-github-desktop#part-2-creating-a-new-repository)
 
+If you do not have a text editor installed on your computer, you will need to install one. I use Visual Studio Code, often called [VS Code](https://code.visualstudio.com/docs).
+
 [Video Link: Part
 1](https://mountallison-my.sharepoint.com/:v:/r/personal/estregger_mta_ca/Documents/CEWIL_CRKN_Git_setup_5a.webm?csf=1&web=1&e=PZWGAP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
