@@ -100,13 +100,13 @@ creating a fork and making a pull request.
 
 For CHEM/BIOC students, I’m going to ask you to clone the
 [2025_cewil_crkn_project](https://github.com/estregger/2025_cewil_crkn_project)
-repository, make a change to the git_glossary.md file, open a pull
-request, assign it to estregger for review, and create an issue.
+repository, make a change to the git_glossary.md file, and open a pull
+request.
 
 For DATA students, I’m going to ask you to clone the
 [Course_Documents_2025](https://github.com/MtADATA3101/Course_Documents_2025)
-repository, make a change to the cewil_glossary.md file, open a pull
-request, assign it to estregger for review, and create an issue.
+repository, make a change to the cewil_glossary.md file,and open a pull
+request.
 
 To show you how to do this, I’ll use a test repository and the
 instructions in [GitHub
