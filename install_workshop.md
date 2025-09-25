@@ -94,6 +94,8 @@ link](https://mountallison-my.sharepoint.com/:v:/g/personal/estregger_mta_ca/Eeq
 GitHub Docs: [Authenticating to GitHub in GitHub
 Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/authenticating-to-github-in-github-desktop?platform=mac)
 
+[Video link](https://mountallison-my.sharepoint.com/:v:/g/personal/estregger_mta_ca/Efg1GMvmlshLi-XBCsYdHzgBeaDW_jNGtftNmfkN5xxbdw?e=b22Rse&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 ## 5. Create a tutorial repository
 
 GitHub Docs: [Create tutorial
@@ -131,5 +133,23 @@ Docs](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning
 
 # Additional resources
 
-Consider selecting a Udemy class on Git and GitHub to learn in more
-detail.
+## Articles
+
+Curious about what Git and GitHub are all about?
+Read one of these articles:
+
+Bryan, J. (2018). Excuse Me, Do You Have a Moment to Talk About Version Control? The American Statistician, 72(1), 20–27. https://doi.org/10.1080/00031305.2017.1399928
+
+Beckman, M. D., Çetinkaya-Rundel, M., Horton, N. J., Rundel, C. W., Sullivan, A. J., & Tackett, M. (2021). Implementing Version Control With Git and GitHub as a Learning Objective in Statistics and Data Science Courses. Journal of Statistics and Data Science Education, 29(sup1), S132–S144. https://doi.org/10.1080/10691898.2020.1848485
+
+## GitHub Docs
+
+[GitHub Docs](https://docs.github.com/en) are a great place to get started. They include lots of screenshots, differences between Windows/Mac operating systems, and troubleshooting ideas.
+
+## Udemy classes
+
+Consider selecting a Udemy class on Git and GitHub to learn more.
+
+## Schedule an appointment with Elizabeth Stregger
+
+Request a meeting with Elizabeth using the [booking link](https://outlook.office365.com/owa/calendar/LibraryAppointments@mta.ca/bookings/s/Lm8pmHeFAkCS_M_0xKAYEQ2).
