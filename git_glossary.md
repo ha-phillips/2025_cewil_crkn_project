@@ -13,7 +13,7 @@ GitHub Desktop
 
 ### Git terms
 
-Repository
+Repository- A storage location for data or material. It is a centralized digital location for storing projext files and other documentation
 
 Local
 
